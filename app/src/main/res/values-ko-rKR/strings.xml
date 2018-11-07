@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">야옹이 데려오기</string>
+    <string name="find_a_cat_button">야옹이 데려오기</string>
+    <string name="favorite_cats_button">좋아하는 고양이</string>
+    <string name="cat_fact_text">고양이는 9 삶을 가지고있다</string>
+    <string name="zip_code">zip code</string>
+    <string name="share">share</string>
+    <string name="like">like</string>
+    <string name="email">E-mail</string>
+    <string name="emailColon">이메일:</string>
+    <string name="name">이름:</string>
+    <string name="gender">성:</string>
+    <string name="zip">우편 번호:</string>
+    <string name="description">기술:</string>
+    <string name="enter_zip_code">우편 번호를 입력하세요</string>
+    <string name="enter_zip_code_here">여기에 우편 번호 입력..</string>
+    <string name="permissions_granted">위치 권한 승인 됨</string>
+    <string name="permissions_denied">위치 권한이 거부되었습니다</string>
+    <string name="location_not_found">위치를 찾을 수 없습니다</string>
+    <string name="no_location_permission">위치 권한 없음</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+</resources>

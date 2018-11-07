@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Find A Cat</string>
+    <string name="find_a_cat_button">Find A Cat</string>
+    <string name="favorite_cats_button">Favorite Cats</string>
+    <string name="cat_fact_text">Cats have 9 lives</string>
+    <string name="zip_code">zip code</string>
+    <string name="share">share</string>
+    <string name="like">like</string>
+    <string name="email">E-mail</string>
+    <string name="emailColon">E-mail:</string>
+    <string name="name">Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="zip">Zip:</string>
+    <string name="description">Description:</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="enter_zip_code_here">Enter zip code here..</string>
+    <string name="permissions_granted">Location permission approved</string>
+    <string name="permissions_denied">Location permission denied</string>
+    <string name="location_not_found">Location couldn\'t be found</string>
+    <string name="no_location_permission">No location permission</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

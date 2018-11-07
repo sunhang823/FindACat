@@ -1,0 +1,21 @@
+package edu.gwu.findacat.generated.PetFinder
+
+
+import android.os.Parcelable
+import com.squareup.moshi.Json
+import kotlinx.android.parcel.Parcelize
+
+@Parcelize
+
+
+data class Status(
+
+	@field:Json(name="code")
+	val code: Code? = null,
+
+//	@field:Json(name="message")
+//	val message: Message? = null,
+
+	@field:Json(name="\$t")
+	val T: String? = null
+):Parcelable

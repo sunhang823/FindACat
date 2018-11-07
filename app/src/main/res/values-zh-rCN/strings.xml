@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">喵一下</string>
+    <string name="find_a_cat_button">喵一下</string>
+    <string name="favorite_cats_button">最喜爱的喵</string>
+    <string name="cat_fact_text">猫有9条命</string>
+    <string name="zip_code">zip code</string>
+    <string name="share">share</string>
+    <string name="like">like</string>
+    <string name="email">E-mail</string>
+    <string name="emailColon">电子邮件:</string>
+    <string name="name">名字:</string>
+    <string name="gender">性别:</string>
+    <string name="zip">邮编:</string>
+    <string name="description">描述:</string>
+    <string name="enter_zip_code">请输入邮编</string>
+    <string name="enter_zip_code_here">再此输入邮编..</string>
+    <string name="permissions_granted">通过定位请求</string>
+    <string name="permissions_denied">拒绝定位请求</string>
+    <string name="location_not_found">找不到地址</string>
+    <string name="no_location_permission">没有定位请求</string>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+
+</resources>
